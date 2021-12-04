@@ -2,7 +2,7 @@
   "cart": [
     {
       "id": 1,
-      "name": "Avery's Sandwich",
+      "name": "Elijah's Sandwich",
       "bread": "Sourdough",
       "ingredients": [
         "Cheddar Cheese",
@@ -12,6 +12,12 @@
         "Lettuce",
         "Tomatoes"
       ]
+    },
+    {
+      "id": 2,
+      "name": "Ali's Sandwhich",
+      "bread": "Gluten Free",
+      "ingredients": []
     }
   ],
   "ingredients": [
